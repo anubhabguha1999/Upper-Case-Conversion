@@ -5,9 +5,9 @@ import TextForm from './components/TextForm';
 function App() {
   return (
     <>
-    <Navbar title = "Upper Case" />
+    <Navbar title = "Upper or Lower Case" />
     <div className="container m-3">
-    <TextForm heading ="Enter that you want to convert in Upper Case"/>
+    <TextForm heading ="Enter that you need to convert"/>
     
     </div>
     </>
